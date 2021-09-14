@@ -4,6 +4,8 @@
 
 I spend most of my time coding outstanding projects and Play Dota for refreshment. I really enjoy learning languages and frameworks like React and React Native, ass work in WordPress. I also enjoy wireframing, UI/UX, and design in general. 
 
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hasanmehdi9371) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/https://www.youtube.com/channel/UCfmY-Nq4DbAOph_87QCouPQ) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-mehdi-98472277//) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jahid4k//) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahid4k@gmail.com)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehdi39)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -18,6 +20,3 @@ Skills: ⚛REACT / 📱REACT Native / 👩‍💻JS / 👩‍💻HTML / 👩‍�
 - 📫 How to reach me: jahid4k@gmail.com 
 - 😄 Pronouns: Babu. 
 - ⚡ Fun fact: there is no single fun fact, my whole life is FUN(just kidding). 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mehdi39)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hasan-mehdi-98472277//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hasanmehdi9371)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jahid4k//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/mehdi39)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/channel/UCfmY-Nq4DbAOph_87QCouPQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mrmridha.xyz/)  
