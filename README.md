@@ -4,12 +4,16 @@
 
 I spend most of my time coding outstanding projects and Play Dota for refreshment. I really enjoy learning languages and frameworks like React and React Native, ass work in WordPress. I also enjoy wireframing, UI/UX, and design in general. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehdi39)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 Skills: REACT / REACT Native / JS / HTML / CSS / WordPress
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning MERN Stack with Jhankar Mahabub Sir. 
 - 👯 I’m looking to collaborate on Any MERN stack project. 
-- 🤔 I’m looking for help with My first Job 
+- 🤔 I’m looking for help with My First Job 
 - 💬 Ask me about anything but don't get too much personals 
 - 📫 How to reach me: jahid4k@gmail.com 
 - 😄 Pronouns: Babu. 
@@ -17,28 +21,3 @@ Skills: REACT / REACT Native / JS / HTML / CSS / WordPress
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mehdi39)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hasan-mehdi-98472277//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/hasanmehdi9371)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/jahid4k//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/mehdi39)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCfmY-Nq4DbAOph_87QCouPQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mrmridha.xyz/)  
-
-
-
-
-
-
-### Hi there
-
-I'm Md. Jahid Hossain Mridha from Bangladesh, and a Full Stack Web Application Developer. I Spend most of time coding outstanding proejcts and Play Dota for refreshment. I really enjoy learning languages and frameworks like React and React Native, ass work in wordpress. I also enjoy wireframing, ui/ux and design in general. 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehdi39)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-Connect with me!
-<img src="{https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white}" />
-
-![image]({https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white})
-
-❤️ I enjoy programming and playing games also reading book.
-💻 Most used line of code console.log("G G");
-🤔 I'm looking for a job.
-📠 How to reach me: jahid4k@gmail.com
-🌠 Fun fact: there is no single fun fact, my whole life is FUN(just kidding).
