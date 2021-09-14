@@ -8,7 +8,7 @@ I spend most of my time coding outstanding projects and Play Dota for refreshmen
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Skills: REACT / REACT Native / JS / HTML / CSS / WordPress
+Skills: ⚛REACT / 📱REACT Native / 👩‍💻JS / 👩‍💻HTML / 👩‍💻CSS / 📃WordPress
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning MERN Stack with Jhankar Mahabub Sir. 
