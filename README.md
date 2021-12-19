@@ -1,4 +1,4 @@
-![Full Stack Web Application Developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t1.6435-9/131442572_3497106003739264_8984769988436247049_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=19026a&_nc_eui2=AeH8P_T8tLVfsGh0c3Dfh7XNrJWki3NvfTuslaSLc299Ozvj4P83ZWe6uMCnr-fa9eGZgB__erM5qlQ-fjm8iiJP&_nc_ohc=yqO4g2_3mbkAX9eOPqS&_nc_ht=scontent.fdac5-2.fna&oh=00_AT9m4BRHzJfYwKbilw2ojrlxsZjscWJR9-8PlSp07TtizQ&oe=61E68ED6)
+![Full Stack Web Application Developer](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/183276367/original/b9b2c99e016dc8318c4742e3d0d5f0b0356d9511/work-on-web-development-projects-on-mern-stack.jpg)
 
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Jahid Mridha 
 #### Full Stack Web Application Developer from <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="13"/> Bangladesh. I spend most of my time coding outstanding projects and Play Dota for refreshment. I really enjoy learning languages and frameworks like React and React Native, content management system like, WordPress. I also enjoy wireframing, UI/UX, and design in general. 
