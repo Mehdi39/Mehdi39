@@ -1,4 +1,4 @@
-![Full Stack Web Application Developer](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/183276367/original/b9b2c99e016dc8318c4742e3d0d5f0b0356d9511/work-on-web-development-projects-on-mern-stack.jpg)
+![Full Stack Web Application Developer](https://www.technource.com/wp-content/uploads/2020/10/Technource-NodeJs-page-banner.png)
 
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Jahid Mridha 
 #### Full Stack Web Application Developer from <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="13"/> Bangladesh. I spend most of my time coding outstanding projects and Play Dota for refreshment. I really enjoy learning languages and frameworks like React and React Native, content management system like, WordPress. I also enjoy wireframing, UI/UX, and design in general. 
