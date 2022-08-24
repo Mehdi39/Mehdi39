@@ -17,13 +17,13 @@
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `🐍 Python` • `👨‍ JavaScript` • `💲 PHP`
   - **🔭 Frameworks:** • [ExpressJS](https://expressjs.com/) • [Laravel](https://laravel.com/) • [Django](https://www.djangoproject.com/)
-  - **💾 Databases:** • [MongoDB](https://www.mongodb.com/) • [MySQL](https://www.mysql.com/) • [PostgreSQL]([https://www.mysql.com/](https://www.postgresql.org/)) 
+  - **💾 Databases:** • [MongoDB](https://www.mongodb.com/) • [MySQL](https://www.mysql.com/) • [PostgreSQL](https://www.postgresql.org/) 
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
-  - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [SignalR](https://dotnet.microsoft.com/en-us/apps/aspnet/signalr) • [RabbitMQ](https://www.rabbitmq.com/) • [TCP/IP](https://www.techtarget.com/searchnetworking/definition/TCP-IP) • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+  - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 - 🎡 **Software development ecosystem:**
-  - **📁 Code repository:** • [Git](https://git-scm.com/) • [BitBucket](https://bitbucket.org/product) • [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/)
-  - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards) • [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)
-  - **🗂 CI/CD:** • [IIS](https://www.iis.net/) • [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) • [Github Actions](https://github.com/features/actions) • [Github Pages](https://pages.github.com/)
+  - **📁 Code repository:** • [Git](https://git-scm.com/) • [BitBucket](https://bitbucket.org/product)
+  - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards) 
+
 - 🧙‍♂️ **Coding pattern & principles:**
   - **⚒ Patterns:**  • [Mediator](https://en.wikipedia.org/wiki/Mediator_pattern) • [Bridge](https://en.wikipedia.org/wiki/Bridge_pattern) • [CQRS](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation#Command_Query_Responsibility_Separation) • [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) • [SAGA](https://microservices.io/patterns/data/saga.html) • [Event Sourcing](https://microservices.io/patterns/data/event-sourcing.html) • [Message Queuing](https://www.cloudamqp.com/blog/what-is-message-queuing.html)
   - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.) • [ACID](https://en.wikipedia.org/wiki/ACID) • [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
