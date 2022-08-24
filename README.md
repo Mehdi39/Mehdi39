@@ -1,7 +1,7 @@
 ![Full Stack Web Application Developer](https://www.technource.com/wp-content/uploads/2020/10/Technource-NodeJs-page-banner.png)
 
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Jahid Mridha. Who I am? 
-#### Full Stack Web Application Developer from 🇧🇩 <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="13"/> Bangladesh. I spend most of my time coding outstanding projects and Play Dota for refreshment. I really enjoy learning languages and frameworks like React and React Native, content management system like, WordPress. I also enjoy wireframing, UI/UX, and design in general. 
+#### Full Stack Web Application Developer from 🇧🇩 <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="13"/> Bangladesh. I spend most of my time coding outstanding projects and Play Dota for refreshment. I really enjoy learning languages and frameworks like React and React Native, Flutter, VueJS, Angular, Laravel, ExpressJS, Django and content management system like, WordPress. I also enjoy wireframing, UI/UX, and design in general. 
 
 ### What I like to disscuss about? 
 - 💬 Ask me about `Front-end library` `RESTful APIs` `Algorithms` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `feasibility` and `requirement analysis` `choice of frameworks` and `tech culture`.
