@@ -32,7 +32,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hasanmehdi9371) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/https://www.youtube.com/channel/UCfmY-Nq4DbAOph_87QCouPQ) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-mehdi-98472277//) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jahid4k//) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahid4k@gmail.com)
 
 #### Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehdi39)](https://github.com/anuraghazra/github-readme-stats)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehdi39)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
