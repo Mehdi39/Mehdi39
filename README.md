@@ -17,7 +17,7 @@
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `🐍 Python` • `👨‍ JavaScript` • `💲 PHP`
   - **🔭 Frameworks:** • [ExpressJS](https://expressjs.com/) • [Laravel](https://laravel.com/) • [Django](https://www.djangoproject.com/)
-  - **💾 Databases:** • [MongoDB](https://www.mongodb.com/) • [MySQL](https://www.mysql.com/) • [PostgreSQL](https://www.postgresql.org/) 
+  - **💾 Databases:** • [MongoDB](https://www.mongodb.com/) • [MySQL](https://www.mysql.com/) • [PostgreSQL](https://www.postgresql.org/) • [Redis](https://redis.com/)
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
   - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 - 🎡 **Software development ecosystem:**
