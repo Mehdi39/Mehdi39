@@ -11,7 +11,7 @@
 - 🖥 **Front-end:** 
   - **📜 Languages:** • `⌨️ TypeScript` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
   - **🔬 Frameworks:**  
-    - **🌐 Web:** • [ReactJS](https://reactjs.org/) • [NextJS](https://nextjs.org/) • [Svelte](https://svelte.dev/) • [Astro](https://astro.build/)
+    - **🌐 Web:** • [ReactJS](https://reactjs.org/) • [NextJS](https://nextjs.org/) • [Svelte](https://svelte.dev/)
     - **📱 Mobile:** • [React Native](https://reactnative.dev/) • [Flutter](https://flutter.dev/) 
 
 - 🗄️ **Back-end:**
