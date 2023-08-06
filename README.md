@@ -7,7 +7,7 @@
 
 ### What my skill set looks like?
 - 🖥 **Front-end:** 
-  - **📜 Languages:** • `⌨️ TypeScript` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
+  - **📜 Languages:** • `⌨️ TypeScript` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS` • `⌨️ Golang`
   - **🔬 Frameworks:**  
     - **🌐 Web:** • [ReactJS](https://reactjs.org/) • [NextJS](https://nextjs.org/) • [Svelte](https://svelte.dev/)
     - **📱 Mobile:** • [React Native](https://reactnative.dev/) • [Flutter](https://flutter.dev/) 
