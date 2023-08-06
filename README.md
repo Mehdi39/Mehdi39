@@ -7,13 +7,13 @@
 
 ### What my skill set looks like?
 - 🖥 **Front-end:** 
-  - **📜 Languages:** • `⌨️ TypeScript` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS` • `⌨️ Golang`
+  - **📜 Languages:** • `⌨️ TypeScript` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
   - **🔬 Frameworks:**  
     - **🌐 Web:** • [ReactJS](https://reactjs.org/) • [NextJS](https://nextjs.org/) • [Svelte](https://svelte.dev/)
     - **📱 Mobile:** • [React Native](https://reactnative.dev/) • [Flutter](https://flutter.dev/) 
 
 - 🗄️ **Back-end:**
-  - **📜 Languages:** • `🐍 Python` • `👨‍ JavaScript` • `💲 PHP`
+  - **📜 Languages:** • `🐍 Python` • `⌨️ TypeScript` • `👨‍ JavaScript` • `💲 PHP` • `⌨️ Golang`
   - **🔭 Frameworks:** • [ExpressJS](https://expressjs.com/) • [Laravel](https://laravel.com/) • [Django](https://www.djangoproject.com/)
   - **💾 Databases:** • [MongoDB](https://www.mongodb.com/) • [MySQL](https://www.mysql.com/) • [PostgreSQL](https://www.postgresql.org/) • [Redis](https://redis.com/)
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
