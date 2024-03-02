@@ -1,5 +1,5 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Jahid Mridha. Who I am? 
-#### Full Stack Web Developer from Bangladesh. I spend most of my time coding outstanding projects and Play Dota for refreshment. I really enjoy learning languages and frameworks like React and React Native, Flutter, VueJS, Angular, Laravel, ExpressJS, Django and content management system like, WordPress. I also enjoy wireframing, UI/UX, and design in general. 
+#### Full Stack Web Developer from Bangladesh. I spend most of my time coding outstanding projects and Play Dota for refreshment. I really enjoy learning languages and frameworks like React and React Native, VueJS, Angular, Laravel, ExpressJS, and content management system like, Webflow. I also enjoy wireframing, UI/UX, and design in general. 
 
 ### What I like to disscuss about? 
 - 💬 Ask me about `Front-end library` `RESTful APIs` `Algorithms` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `feasibility` and `requirement analysis` `choice of frameworks` and `tech culture`.
@@ -9,17 +9,17 @@
 - 🖥 **Front-end:** 
   - **📜 Languages:** • `⌨️ TypeScript` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
   - **🔬 Frameworks:**  
-    - **🌐 Web:** • [ReactJS](https://reactjs.org/) • [NextJS](https://nextjs.org/) • [Svelte](https://svelte.dev/)
-    - **📱 Mobile:** • [React Native](https://reactnative.dev/) • [Flutter](https://flutter.dev/) 
+    - **🌐 Web:** • [ReactJS](https://reactjs.org/) • [NextJS](https://nextjs.org/)
+    - **📱 Mobile:** • [React Native](https://reactnative.dev/)
 
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `⌨️ TypeScript` • `👨‍ JavaScript`
   - **🔭 Frameworks:** • [ExpressJS](https://expressjs.com/) 
   - **💾 Databases:** • [MongoDB](https://www.mongodb.com/) • [MySQL](https://www.mysql.com/) • [PostgreSQL](https://www.postgresql.org/) • [Redis](https://redis.com/)
-  - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
-  - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+  - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html) (familiar)
+  - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) (familiar)
 - 🎡 **Software development ecosystem:**
-  - **📁 Code repository:** • [Git](https://git-scm.com/) • [BitBucket](https://bitbucket.org/product)
+  - **📁 Code repository:** • [Git](https://git-scm.com/)
   - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards) 
 
 - 🧙‍♂️ **Coding pattern & principles:**
