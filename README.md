@@ -19,7 +19,7 @@
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html) (familiar)
   - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) (familiar)
 - 🎡 **Software development ecosystem:**
-  - **📁 Code repository:** • [Git](https://git-scm.com/) • [GitHub]([https://git-scm.com/](https://github.com/Mehdi39))
+  - **📁 Code repository:** • [Git](https://git-scm.com/) • [GitHub](https://github.com/Mehdi39)
   - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards) 
 
 - 🧙‍♂️ **Coding pattern & principles:**
