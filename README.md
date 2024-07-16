@@ -13,8 +13,8 @@
     - **📱 Mobile:** • [React Native](https://reactnative.dev/)
 
 - 🗄️ **Back-end:**
-  - **📜 Languages:** • `⌨️ TypeScript` • `👨‍ JavaScript`
-  - **🔭 Frameworks:** • [ExpressJS](https://expressjs.com/) 
+  - **📜 Languages:** • `⌨️ TypeScript` • `👨‍ JavaScript` • `🚀‍ Golang`
+  - **🔭 Frameworks:** • [ExpressJS](https://expressjs.com/) • [Gin](https://gin-gonic.com/) 
   - **💾 Databases:** • [MongoDB](https://www.mongodb.com/) • [MySQL](https://www.mysql.com/) • [PostgreSQL](https://www.postgresql.org/) • [Redis](https://redis.com/)
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html) (familiar)
   - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) (familiar)
